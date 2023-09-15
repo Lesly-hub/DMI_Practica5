@@ -10,4 +10,9 @@
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
-## Descripción de la Aplicación
+
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | Practica5: Stateless Widget                                              |
+| Descripción            | En esta aplicación agregamos widgets de tipo stateless, los cuales son 3 
+                           cards, con 3 etiquetas de texto y 3 iconos
