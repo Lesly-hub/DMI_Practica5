@@ -15,5 +15,5 @@
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | Practica5: Stateless Widget                                              |
 | Descripción            | En esta aplicación agregamos widgets de tipo stateless, los cuales son 3 |
-|                        | cards, con 3 etiquetas de texto y 3 iconos                               |
+                           cards, con 3 etiquetas de texto y 3 iconos                               
 | Fecha de Entrega       | 15 de septiembre de 2023                                                 |
